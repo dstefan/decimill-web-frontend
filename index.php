@@ -16,7 +16,7 @@ define('DOMAIN',  'decimill');
 define('MAINURL',  'http://' . DOMAIN . '/');
 define('CODEBASE',  '');
 define('SELF',      'index.php');
-define('BASEPATH',  'C:/dev/projects/decimill/web/');
+define('BASEPATH',  'C:/dev/projects/decimill/decimill-web-frontend/');
 define('SYSPATH',   BASEPATH . 'system/');
 define('APPPATH',   BASEPATH . 'application/');
 define('BASEURL',   'http://' . SERVER . '/' . (defined('CODEBASE') ? CODEBASE : '/'));
